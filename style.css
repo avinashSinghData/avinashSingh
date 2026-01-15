@@ -114,3 +114,53 @@ footer {
     font-size: 12px;
     margin-top: 15px;
 }
+
+
+/* Project Detail Page */
+
+h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 14px;
+    margin-top: 12px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 13px;
+    margin-bottom: 8px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    max-width: 90%;
+    height: auto;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #ccc;
+}
+
+/* Links */
+a {
+    color: #0000EE;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Back link spacing */
+a[href="index.html"] {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
