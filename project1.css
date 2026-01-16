@@ -60,7 +60,7 @@ a[href="index.html"] {
     max-width: 750px;       /* optional, keeps sections readable */
     margin: 15px auto;      /* spacing between boxes */
     padding: 12px 14px;     /* inner spacing */
-    border: 1px solid #ddd; /* subtle border */
+    border: 3px solid #ddd; /* subtle border */
     border-radius: 6px;     /* soft corners */
     background-color: #fafafa; /* optional, light background for contrast */
     text-align: left;       /* headings/paragraphs left-aligned inside box */
