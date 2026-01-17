@@ -164,3 +164,17 @@ a[href="index.html"] {
     font-size: 12px;
 }
 
+.box {
+    max-width: 900px;
+    margin: 25px auto;
+    padding: 20px;
+
+    border: 1px solid #000;       /* outer black border */
+    outline: 5px solid #ddd;      /* inner grey border */
+    outline-offset: -2px;
+
+    background: #fafafa;
+    border-radius: 8px;
+}
+
+
