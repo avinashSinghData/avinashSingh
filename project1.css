@@ -61,9 +61,9 @@ a[href="index.html"] {
     margin: 15px auto;      /* spacing between boxes */
     padding: 12px 14px;     /* inner spacing */
     
-    border: 2px solid #000;      /* outer black border */
-    outline: 3px solid #ddd;     /* inner grey border */
-    outline-offset: -8px;        /* pulls it inside the box */
+    border: 1px solid #000;      /* outer black border */
+    outline: 5px solid #ddd;     /* inner grey border */
+    outline-offset: -4px;        /* pulls it inside the box */
     
     border-radius: 6px;     /* soft corners */
     background-color: #fafafa; /* optional, light background for contrast */
