@@ -177,4 +177,39 @@ a[href="index.html"] {
     border-radius: 8px;
 }
 
+/* Big outer box around all nav items */
+.nav-box {
+    border: 2px solid black;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
+/* Make the nav items stay in one line */
+.nav-box ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
+
+/* Individual boxes for each item */
+.nav-item {
+    border: 1px solid #999;
+    padding: 6px 12px;
+    background: #f5f5f5;
+}
+
+/* Link styling */
+.nav-item a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.nav-item:hover {
+    background: #e0e0e0;
+}
+
+
 
