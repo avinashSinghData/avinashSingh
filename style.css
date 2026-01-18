@@ -68,10 +68,11 @@ section h2 {
 .project-card {
     background: #eee;
     padding: 8px;
-    width: 200px;
     border-radius: 3px;
     font-size: 13px;
-    margin: 0 auto; /* center the card itself */
+
+    flex: 1 1 180px;     /* auto-resize cards */
+    max-width: 200px;     /* prevents them getting too big */
 }
 
 .project-card h3 {
