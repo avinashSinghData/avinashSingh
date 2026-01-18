@@ -26,6 +26,10 @@ header h1 {
     margin-bottom: 5px;
 }
 
+header .box ul li a:hover {
+    text-decoration: underline;
+}
+
 
 
 /* Sections */
